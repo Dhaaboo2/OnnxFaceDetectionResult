@@ -16,4 +16,8 @@
     <Folder Include="ML\OnnxModels\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ONNXFaceLib\ONNXFaceLib.csproj" />
+  </ItemGroup>
+
 </Project>
